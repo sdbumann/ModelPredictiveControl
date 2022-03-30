@@ -11,7 +11,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 The goal of this Model Predictive Control Project was to create and simulate a MPC
-controller for a quadcopter. To achieve this goal the given problem was divided into four
+controller for a quadcopter. To achieve this goal, the given problem was divided into four
 independent subproblems (for positions x,y, z and angle gamma), each with its
 corresponding separate MPC controller.
 Finally, as a bonus exercise, we attempted to implement a non-linear MPC controller for the
